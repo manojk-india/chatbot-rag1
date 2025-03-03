@@ -1,0 +1,35 @@
+
+Query: what is compact pdf files
+Top 5 Matches:
+Match 1: anyone.
+• Compact PDF files are smaller than their source files and download a
+page at a time for fast display on the Web.
+
+Match 2: anyone.
+• Compact PDF files are smaller than their source files and download a
+page at a time for fast display on the Web.
+
+Match 3: anyone.
+• Compact PDF files are smaller than their source files and download a
+page at a time for fast display on the Web.
+
+Match 4: anyone.
+• Compact PDF files are smaller than their source files and download a
+page at a time for fast display on the Web.
+
+Match 5: Adobe Acrobat PDF Files
+Adobe® Portable Document Format (PDF) is a universal file format that preserves all
+of the fonts, formatting, colours and graphics of any source document, regardless of
+--------------------------------------------------
+Query: quit
+Top 5 Matches:
+Match 1: 2
+
+Match 2: 2
+
+Match 3: 2
+
+Match 4: 2
+
+Match 5: 2
+--------------------------------------------------
