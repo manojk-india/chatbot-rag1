@@ -1,6 +1,7 @@
 # Ignore Python virtual environments
 venv/
 .env/
+Pdfs/
 
 # Ignore cache and temporary files
 __pycache__/
@@ -26,3 +27,4 @@ output.txt
 # Ignore system files
 .DS_Store
 Thumbs.db
+

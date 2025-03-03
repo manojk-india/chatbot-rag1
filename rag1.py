@@ -23,7 +23,7 @@ def process_and_store_documents(folder_path, persist_directory="./vector_db"):
     """Processes PDFs, splits text, and stores embeddings in ChromaDB."""
     # Load and split documents with improved chunking strategy
     documents = load_pdfs_from_folder(folder_path)
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=216, chunk_overlap=70)
     split_docs = text_splitter.split_documents(documents)
     
     # Generate embeddings and store in ChromaDB
