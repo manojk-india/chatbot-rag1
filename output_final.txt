@@ -1,0 +1,11 @@
+Query: what is adobe pdf
+Answer:  Adobe Portable Document Format (PDF) is a universal file format developed by Adobe Systems. It allows for the distribution of documents that preserve all fonts, formatting, colors, and graphics, regardless of the application or platform used to create the original document. This makes it an ideal format for electronic document distribution as it helps overcome problems commonly encountered with electronic file sharing, such as compatibility issues between different applications and platforms. Additionally, anyone can open a PDF file using the free Adobe Acrobat Reader, and PDF files always print correctly on any printing device and display exactly as created. The free Adobe Acrobat Reader is easy to download and distribute.
+--------------------------------------------------
+Query: what is Adobe Portable Document Format (PDF)
+Answer:  Adobe Portable Document Format (PDF) is a universal file format created by Adobe Systems. It preserves the fonts, formatting, colors, and graphics of any source document regardless of the application or platform used to create it. This makes PDF an ideal format for electronic document distribution as it overcomes many of the problems commonly encountered with electronic file sharing such as:
+
+1. Anyone, anywhere can open a PDF file with the free Adobe Acrobat Reader, which is easy to download and distribute freely.
+2. PDF files always print correctly on any printing device.
+3. PDF files always display exactly as created, regardless of fonts, software, and operating systems used. This eliminates issues caused by platform, software, and version incompatibilities.
+4. The universal nature of the PDF format ensures that recipients do not require specific applications to open the document.
+--------------------------------------------------
