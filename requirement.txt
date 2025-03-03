@@ -5,3 +5,4 @@ transformers
 sentence-transformers
 pypdf
 torch
+ollama 
